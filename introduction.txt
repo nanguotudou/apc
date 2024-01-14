@@ -1,0 +1,10 @@
+根据您的查询，您正在查看Heather Morrison的论文“Global OA APCs（APC）2010-2017：Major Trends”1。这篇论文是关于全球开放获取文章处理费（APC）的研究，该研究是对全球27%的完全开放获取期刊进行的长期研究，这些期刊具有APC。该研究发现，全球平均APC变化不大；在美元方面，2010年为906美元，2016年为964美元，2017年为974美元1。然而，平均值掩盖了货币差异和市场增长的影响；新的APC期刊通常从APC为0开始。传统的商业学术出版商正在进入开放获取市场：2017年最大的开放获取期刊出版商是Springer、De Gruyter、Elsevier和Wolters Kluwer Medknow。然而，这些只占开放获取期刊出版的一小部分，其余部分仍由非常小的出版商，通常是大学或学会出版商，广泛参与。APC定价显示出广泛的范围和变异性。APC市场可以被描述为不稳定的1。
+
+希望这有助于回答您的问题！
+
+源: 与必应的对话， 2024/1/14
+(1) #4604 - Global OA APCs (APC) 2010–2017: Major Trends. http://elpub.episciences.org/4604.
+(2) Global OA APCs (APC) 2010–2017: Major Trends - Archive ouverte HAL. https://hal.science/hal-01816699.
+(3) Global OA APCs (APC) 2010–2017: Major Trends - Semantic Scholar. https://pdfs.semanticscholar.org/ca6a/b4caddf6430f39fec1be887613cbe05658de.pdf.
+(4) undefined. https://doi.org/10.4000/proceedings.elpub.2018.16.
+这篇论文的结论是，全球平均APC变化不大；在美元方面，2010年为**906美元**，2016年为**964美元**，2017年为**974美元**。然而，平均值掩盖了货币差异和市场增长的影响；新的APC期刊通常从APC为0开始。APC定价显示出广泛的范围和变异性。APC市场可以被描述为不稳定的。
